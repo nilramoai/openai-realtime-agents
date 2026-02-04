@@ -441,11 +441,11 @@ function App() {
         >
           <div>
             <Image
-              src="/openai-logomark.svg"
-              alt="OpenAI Logo"
-              width={20}
-              height={20}
-              className="mr-2"
+              src="/coles-logo.svg"
+              alt="Coles Logo"
+              width={96}
+              height={32}
+              className="mr-3"
             />
           </div>
           <div>
